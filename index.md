@@ -8,3 +8,6 @@
 int first = 1;
 int second = 2;
 ```
+- [x] First task
+- [ ] Second task
+- [ ] Third task
